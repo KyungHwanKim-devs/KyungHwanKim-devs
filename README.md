@@ -24,7 +24,7 @@
 </div>
 
 ### Most Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyungHwanKim-devs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyungHwanKim-devs&layout=compact&count-private=true&orgs=FJVN-system,RadiTech-campus,HMbtob,cs-devops-bootcamp)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Github Stats
 ![KKH's github stats](https://github-readme-stats.vercel.app/api?username=KyungHwanKim-devs&orgs=FJVN-system,RadiTech-campus,HMbtob,cs-devops-bootcamp&hide=stars)
