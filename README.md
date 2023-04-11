@@ -1,6 +1,8 @@
 ## DevOps Engineer 김경환
 서비스를 고려하는 개발자가 되기 위해 노력합니다. 기획안 안에서 고민하기 보다, 소비자와 사용자 니즈를 생각하고 이를 기획자와 논의하여 새로운 기능으로 구현하려고 노력했습니다.
+
 느리지만 멈추지 않고 성장하려 노력합니다. 기술을 서비스에 도입하고 결과를 만들어내는 과정에 큰 성취감을 느꼈습니다. 김영한님의 벡엔드 로드맵 강의, 패스트 캠퍼스의 DevOps, MSA, AWS 강의 등을 수강하고, Terraform up & running, 아파치 카프카 어플리케이션 같은 도서를 꾸준히 학습하고 있습니다.
+
 기술에 매몰되지 않고 비즈니스를 이해하기 위해 노력합니다. 기술의 변화에 빠르게 대응하는 것은 개발자의 중요한 역량이라고 생각합니다. 하지만 기술보다 선행되어야 하는 것의 비즈니스를 이해하는 것이라고 생각합니다. 여러 기술을 공부하려 노력중 이지만, 이를 서비스에 도입할 때에는 신중하게 검토합니다.
 
 ### Experience - Frontend
@@ -21,7 +23,7 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Githubactions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/GithubActions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=white"/>
 </div>
 
