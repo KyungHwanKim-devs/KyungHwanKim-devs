@@ -27,4 +27,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyungHwanKim-devs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Github Stats
-![KKH's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyungHwanKim-devs&hide=contribs,prs)
+![KKH's github stats](https://github-readme-stats.vercel.app/api?username=KyungHwanKim-devs&orgs=FJVN-system,RadiTech-campus,HMbtob,cs-devops-bootcamp&hide=stars)
