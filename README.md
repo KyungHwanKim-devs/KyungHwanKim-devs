@@ -1,12 +1,26 @@
-### 안녕하세요, 백엔드 엔지니어 김경환입니다.
+### 안녕하세요, 문제를 해결하는 백엔드 엔지니어 김경환입니다.
 
-생성형 AI 모델 서빙과 비즈니스 자동화에 특화된 백엔드 엔지니어입니다. 복잡한 비즈니스 문제를 기술로 해결하고, 안정적인 대규모 시스템을 설계하고 운영하는 것에 큰 가치를 둡니다.
+대규모 AI 모델 서빙 인프라를 설계하고 비즈니스 프로세스를 자동화하는 백엔드 엔지니어입니다. 단순한 기능 구현을 넘어, 온프레미스-서버리스 하이브리드 아키텍처를 통해 비용과 성능을 모두 잡는 효율적인 시스템 구축에 가치를 둡니다.
 
-- ☁️ **AI/ML Model Serving**: LLM 에이전트와 이미지 생성 모델을 위한 대규모 서빙 시스템을 구축하고 운영한 경험이 있습니다.
-- 🚀 **Backend Development**: NestJS, Python(FastAPI)을 활용하여 확장 가능하고 효율적인 REST API를 설계합니다.
-- 튼튼한 **기반**: Kafka를 이용한 이벤트 기반 아키텍처, Redis를 활용한 성능 최적화, 컨테이너 및 쿠버네티스 기반의 클라우드 네이티브 환경에 익숙합니다.
+☁️ High-Scale AI Infra: 월 5만 건 이상의 생성형 AI 워크로드를 처리하는 하이브리드 버스팅(Hybrid Bursting) 파이프라인을 구축하고 운영했습니다.
+
+🚀 Performance Engineering: Kafka 기반의 비동기 처리와 Redis Lua Script를 활용한 원자적 제어로 대용량 트래픽 상황에서도 데이터 정합성과 50% 이상의 레이턴시 개선을 이뤄냅니다.
+
+🔧 Cloud Native & Deep Dive: Linux 네트워크 인터페이스와 K8s 내부 구조(CNI)를 밑바닥부터 파고들며, Terraform과 GitHub Actions로 배포 리드 타임을 획기적으로 단축(2일 → 3시간)시킵니다.
 
 기술의 깊이를 더하고 비즈니스 성장에 기여하기 위해 꾸준히 학습하고 동료들과 지식을 나누는 것을 좋아합니다.
+
+---
+
+💻 Featured Projects
+
+[Kubernetes CNI Plugin Implementation](https://github.com/f-lab-edu/flanilium)
+
+Go, Linux Networking, Kubernetes, VXLAN
+
+Kubernetes 네트워킹의 내부 동작 원리를 깊이 이해하기 위해 CNI(Container Network Interface) 플러그인을 바닥부터 구현
+
+Linux Bridge/Veth를 활용한 Pod 간 통신 및 VXLAN Overlay를 통한 멀티 노드 통신 구현
 
 ---
 
